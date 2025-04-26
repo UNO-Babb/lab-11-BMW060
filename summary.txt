@@ -1,0 +1,14 @@
+I adjusted the following:
+
+- set the time between shoppers arriving to be between 1 and 3 minutes
+    This gave slightly more random data in the end
+- added the data processing for the max wait time
+    This gave a deeper insight to how long people have to wait
+- adjusted the number of items to 5-25, with 15-15 items showing up twice as much as 5-15
+    This gave longer line times and (i feel like) a more realistic shopping experience
+** I ended up leaving the number of checkers as 2 after messing with it a bit **
+
+While this simulation didn't help me understand grocery stores too much more,
+it did get me interested in the simulation element of python and made me more interested in the 
+upcoming gomework project. I'm curious to see how we'll be able to include multiple different aspects,
+such as multiple traffic lights.
